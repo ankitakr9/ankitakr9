@@ -1,4 +1,4 @@
-## Hi there, I'm Ankita! 👋
+
 <!-- Profile Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:9D50BB,100:6E48AA&height=200&section=header&text=Hi%20I'm%20Ankita!%20&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
