@@ -50,9 +50,17 @@ When I’m not coding, you’ll find me *dancing, singing, or vibing to music*!
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ankitakr9-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankitakr9/)  
+
+
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ankitakr9/)  
+
+
 [![Email](https://img.shields.io/badge/Gmail-ankitakri221106@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitakri221106@gmail.com)
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-ankitakr9-black?style=for-the-badge&logo=github)](https://github.com/ankitakr9)
+
+
 
 ---
 
