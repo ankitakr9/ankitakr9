@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:9D50BB,100:6E48AA&height=200&section=header&text=Hi%20I'm%20Ankita!%20&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 ## 💻 Web Developer | Tech Enthusiast  
-![Profile Views](https://komarev.com/ghpvc/?username=ankitakr9&color=green)
+![Visited](https://komarev.com/ghpvc/?username=ankitakr9&color=green)
 
 I’m a passionate *Web Developer* with a love for creating intuitive and efficient web applications.  
 Currently diving deep into *React* and building cool projects that solve real-world problems.
