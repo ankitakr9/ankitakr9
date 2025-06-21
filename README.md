@@ -73,3 +73,9 @@ When I’m not coding, you’ll find me *dancing, singing, or vibing to music*!
 ## 💼 Resume  
 📄 [View My Resume](https://drive.google.com/file/d/1gG3adcSPB76lIAFKyOR33IDs2ahhBAgr/view?usp=sharing)
 
+---
+
+## Thanks for Visiting....
+
+---
+
