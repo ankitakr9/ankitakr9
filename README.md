@@ -75,7 +75,12 @@ When I’m not coding, you’ll find me *dancing, singing, or vibing to music*!
 
 ---
 
-## Thanks for Visiting....
+---
+
+### Thanks for visiting my GitHub profile!
+
+If you liked what you saw, feel free to ⭐ my repositories and connect with me.  
+Have a great day! 😊
 
 ---
 
