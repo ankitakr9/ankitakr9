@@ -82,6 +82,8 @@ When I’m not coding, you’ll find me *dancing, singing, or vibing to music*!
 [![GitHub](https://img.shields.io/badge/GitHub-ankitakr9-black?style=for-the-badge&logo=github)](https://github.com/ankitakr9)
 
 
+[![Twitter](https://img.shields.io/badge/Twitter-RSankita192-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/RSankita192)
+
 
 ---
 
