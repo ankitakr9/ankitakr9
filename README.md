@@ -192,7 +192,7 @@ When I'm not coding, you'll probably find me dancing, listening to music, or exp
 
 # 💼 Resume & Portfolio
 
-📄 [View Resume](YOUR_RESUME_LINK_HERE)
+📄 [View Resume](https://raw.githubusercontent.com/ankitakr9/ankitakr9/main/Ankita_Kumari.pdf)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-ten-omega-39.vercel.app)
 
