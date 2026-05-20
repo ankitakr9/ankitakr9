@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=Hi%20I'm%20Ankita%20Kumari%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=Hi%20I'm%20Ankita%20&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 # 💻 Full Stack MERN Developer  
 ![Visited](https://komarev.com/ghpvc/?username=ankitakr9&label=Profile%20Views&color=0e75b6&style=flat)
