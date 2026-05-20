@@ -194,7 +194,7 @@ When I'm not coding, you'll probably find me dancing, listening to music, or exp
 
 📄 [View Resume](YOUR_RESUME_LINK_HERE)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-ten-omega-39.vercel.app)
 
 ---
 
